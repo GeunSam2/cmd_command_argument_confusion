@@ -8,5 +8,5 @@ Thanks for https://hackingiscool.pl/cmdhijack-command-argument-confusion-with-pa
 ```
 cd cmd_command_argument_confusion
 npm install
-npm run
+npm run start
 ```
